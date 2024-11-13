@@ -1,2 +1,2 @@
 # Dual-Power-Supply
-12V dual power supply
+9V dual power supply
